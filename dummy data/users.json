@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "684e985b43d05487c152c6c5"
+  },
+  "email": "helloworld@gmail.com",
+  "password": "1234",
+  "createdAt": {
+    "$date": "2025-06-15T09:54:35.037Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T09:54:35.037Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684e9ea7cec2c05ec6877de1"
+  },
+  "email": "feru@mailinator.com",
+  "password": "Pa$$w0rd!",
+  "createdAt": {
+    "$date": "2025-06-15T10:21:27.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T10:21:27.265Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684ea3689157b4d0abd42550"
+  },
+  "email": "qezapu@mailinator.com",
+  "password": "Pa$$w0rd!",
+  "createdAt": {
+    "$date": "2025-06-15T10:41:44.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T10:41:44.249Z"
+  }
+}]
