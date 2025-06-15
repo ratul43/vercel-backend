@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6843205c86c9a31dfc5a85b3"
+  },
+  "id": 1,
+  "icon": "https://img.icons8.com/?size=100&id=2778&format=png&color=000000",
+  "title": "Tailored Solutions for Your Unique Needs",
+  "description": "We design and build scalable, high-performance software tailored to your business goals. From enterprise applications to niche tools, our full-cycle development process ensures clean architecture, seamless integration, and future-proof code. Whether you need a web app, mobile solution, or cross-platform system, we turn your vision into reality with agile methodologies and cutting-edge tech stacks."
+},
+{
+  "_id": {
+    "$oid": "6843205c86c9a31dfc5a85b4"
+  },
+  "id": 2,
+  "icon": "https://img.icons8.com/?size=100&id=tpdtiCCCggXi&format=png&color=000000",
+  "title": "User-Centric Designs That Drive Engagement",
+  "description": "First impressions matter. Our design team crafts intuitive, visually stunning interfaces that enhance user experience and boost conversions. We start with wireframes, iterate through prototypes, and deliver pixel-perfect designs backed by usability testing. From SaaS dashboards to mobile apps, we ensure your product isn't just functional—it's delightful."
+},
+{
+  "_id": {
+    "$oid": "6843205c86c9a31dfc5a85b5"
+  },
+  "id": 3,
+  "icon": "https://img.icons8.com/?size=100&id=2963&format=png&color=000000",
+  "title": "Deploy Faster, Scale Smarter",
+  "description": "Streamline your development pipeline with our DevOps expertise. We automate deployments, optimize CI/CD workflows, and secure your cloud infrastructure (AWS/Azure/GCP). From containerization with Docker to Kubernetes orchestration, we help you achieve zero-downtime releases, robust monitoring, and cost-efficient scaling—so you focus on innovation, not operations."
+}]
