@@ -1,5 +1,5 @@
 import * as path from 'path';
-export const MongoURL = "mongodb://localhost:27017/portfolio"
+export const MongoURL = "mongodb+srv://ratul73:Ratul123@cluster0.75av2.mongodb.net/portfolio"
 export const JWT_SECRET = "SDRKLYCJWE8OYNWCOV34YUNVP"
 export const JWT_EXPIRATION_TIME = 60 * 60 * 24 * 30;
 
